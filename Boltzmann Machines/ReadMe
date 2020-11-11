@@ -1,5 +1,5 @@
 # this directory holds the data and code for praciticing my knowledge of Boltzmann Machines by making a recommended systems.
 # one recommended system will predict if a user will like a movie
 # the other will predict what rating (1-5) the user will give a movie
-# "ml-1m" contains data of 1 million movies provided from "MovieLens"
-# "ml-100k" contains data of 100 thousand movies provided from "MovieLens"
+# "ml-1m" contains data of 1 million ratings from 6000 users on 4000 movies provided from "MovieLens"
+# "ml-100k" contains data of 100,000 ratings from 1000 users on 1700 movies provided from "MovieLens"
